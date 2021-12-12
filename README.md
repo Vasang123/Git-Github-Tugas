@@ -8,3 +8,5 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
 |2|Rooftop|₩4,500,000|
 |3|Taman|₩5,000,000|
 |4|Bar|₩1,250,000|
+
+Selamat menginap!
